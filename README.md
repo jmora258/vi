@@ -31,8 +31,8 @@ U 		-- undo line: undows all the changes made on the last
 		the preceeding "U1"<br> 
 
 <h2>OTHER USEFUL COMMANDS</h2> 
-To save a file: <Esc> ZZ <br> 
-To enter a command: <Esc> <Shift> <Semicolon> <br> 
+To save a file: [Esc] ZZ <br> 
+To enter a command: [Esc] [Shift] [Semicolon] <br> 
 
 :e filename 		--> edit another file <br> 
 :split filename		--> split window and load another file <br> 
