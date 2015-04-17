@@ -32,7 +32,7 @@ U 		-- undo line: undows all the changes made on the last
 
 <h2>OTHER USEFUL COMMANDS</h2> 
 To save a file: [Esc] ZZ <br> 
-To enter a command: [Esc] [Shift] [Semicolon] <br> 
+To enter a command: [Esc] [Colon] <br> 
 
 :e filename 		--> edit another file <br> 
 :split filename		--> split window and load another file <br> 
