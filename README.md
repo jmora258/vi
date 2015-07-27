@@ -1,3 +1,4 @@
+
 # vi
 
 <h2>NAVIGATION</h2> 
@@ -8,6 +9,7 @@ k 	-- up <br>
 l 	-- right <br> 
 0	-- move cursor to start of current line (the one with the cursor)<br>
 $ 	-- move cursor to end of current line<br> 
+
 w 	-- move cursor to beginning of next word<br> 
 
 <h2>INSERTING and ADDING TEXT </h2> 
